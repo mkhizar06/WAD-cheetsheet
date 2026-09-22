@@ -65,5 +65,5 @@ A **port** identifies a specific service/application on a device.
 **Range:** `0–65535`
 
 ### HTTP Headers
-
+HTTP headers describe behavior of a web server upon a request (i.e. Request Headers & Response Headers)
 Extra information included in HTTP requests/responses, such as **content type, size, and accepted formats**.
